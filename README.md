@@ -1,1 +1,2 @@
 # Dr.-Semmelweis-and-the-Discovery-of-Handwashing
+Dr. Ignaz Semmelweis was a Hungarian physician at the Vienna General Hospital who discovered the importance of handwashing in the early 19th century. What led to his discovery was his desire to find a cure for childbed fever, which was a deadly disease affecting women that just given birth. In the early 1840s at the Vienna General Hospital, as many as 10% of the women giving birth died from it. This project reanalyzes the data that led to Semmelweis's discovery of handwashing.
